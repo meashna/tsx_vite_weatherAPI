@@ -10,7 +10,7 @@ interface WeatherType {
 const WeatherTypes: WeatherType[] = [
   {
     type: "Clear",
-    img: "https://cdn-icons-png.flaticon.com/512/3351/3351979.png",
+    img: "https://cdn-icons-png.flaticon.com/512/6974/6974833.png",
   },
   {
     type: "Rain",
